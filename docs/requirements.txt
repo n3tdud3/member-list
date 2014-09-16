@@ -1,0 +1,53 @@
+1. Introduction
+     1.1 Purpose of the project
+                Construct and maintain a membership list of names for *insert company name here*
+     1.2 Scope of the project
+                This project will consist of creating a membership list with maximum size 100 names.  This project will be completed by December 20th, 2014.  Modules of the project will consist of adding a member to the list, removing a member, editing member information, and searching the list of members.
+     1.3 Objectives and success criteria of the project
+                 This project has four primary objectives.
+                        1) Adding a member: Success Criteria: Completion of module that will add a member to a list.
+                        2) Removing a member: Success Criteria: Completion of module that will remove a member from a list.
+                        3) Editing a member: Success Criteria: Completion of a module that will edit member information.
+                        4) Searching for a member: Success Criteria: Completion of a module that will search the list for a member.
+     1.4 Definitions, acronyms, and abbreviations
+                   (Placeholder for later, we probably should come up with some, like if company name is Graybar, GB is usually used as an abbreviation)
+                    GUI - Graphical User Interface
+                     ID - Identification
+     1.5 References
+     1.6 Overview
+
+2. Current system
+             Current system is done by hand by the membership manager.
+
+3. Proposed system
+              Proposed system will be a computerized member list.  Through a GUI, this member list can be maintained by the end user.
+    3.1 Overview
+
+    3.2 Functional requirements ("shall lists")
+         3.2.1
+                   System shall be able to dynamically add members to an existing list.  GUI shall be made for this process.
+         3.2.2
+                   System shall be able to dynamically remove members from an existing list.  GUI shall be made for this process.
+         3.2.3
+                   System shall be able to dynamically edit member information of an existing member from the list.  GUI shall be made for this process.
+         3.2.4
+                   System shall be able to search an existing list to determine if a member exists.  Searchable fields include first name, last name, and member ID.  If multiple hits, the system shall return all results with a GUI select option for the user to pick the correct results.
+
+    3.3 Nonfunctional requirements
+         3.3.1 Usability
+         3.3.2 Reliability
+         3.3.3 Performance
+         3.3.4 Supportability
+         3.3.5 Implementation
+         3.3.6 Interface
+         3.3.7 Packaging
+         3.3.8 Legal
+
+    3.4 System models
+         3.4.1 Scenarios
+         3.4.2 Use case model
+         3.4.3 Analysis object model
+         3.4.4 Dynamic model
+         3.4.5 User interface—navigational paths and screen mock-ups
+
+4. Glossary
