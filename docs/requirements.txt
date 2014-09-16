@@ -35,13 +35,21 @@
 
     3.3 Nonfunctional requirements
          3.3.1 Usability
+                 System will be used by a select number of people. So a small learning curve is ok as long as there is a succinct documentation to accompany the product
          3.3.2 Reliability
+                 Each command should work every time or report easy to decipher errors that allow the user to change the input where necessary
          3.3.3 Performance
+                 Results should be returned or tasks accomplished within a half second
          3.3.4 Supportability
          3.3.5 Implementation
+                 Should be implemented in a POSIX compatible environment with a stable version of PHP
          3.3.6 Interface
+                 Web interface for simplicity of use and installation
          3.3.7 Packaging
+                 Something simple
          3.3.8 Legal
+                 There is nothing to see here. Move along
+
 
     3.4 System models
          3.4.1 Scenarios
